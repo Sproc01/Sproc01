@@ -1,6 +1,8 @@
 ### Hi there 👋
-I am a computer engineer student at University of Padua
-### :fire: My Stats
+I am a computer engineer student at University of Padua.
+
+### My Stats :fire: 
+<img src="https://komarev.com/ghpvc/?username=Sproc01&style=flat-square&color=blue" alt=""/>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sproc01&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
 
