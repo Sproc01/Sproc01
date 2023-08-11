@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a computer engineer student at University of Padua.
+I am a computer engineering student at University of Padua.
 
 ### My Stats :fire: 
 <img src="https://komarev.com/ghpvc/?username=Sproc01&style=flat-square&color=blue" alt=""/>
