@@ -4,9 +4,9 @@ I am a computer engineering student at University of Padua.
 ### My Stats :fire: 
 <img src="https://komarev.com/ghpvc/?username=Sproc01&style=flat-square&color=blue" alt=""/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sproc01&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sproc01&theme=transparent&hide_border=true&hide_current_streak=true)](https://git.io/.vercel.app/api/top-langs/?username=Sproc01&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sproc01&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
 <!--
 **Sproc01/Sproc01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
