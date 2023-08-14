@@ -7,9 +7,6 @@ My linkedin profile:
   </a>
 </div>
 
-## My stats
-<img src="https://komarev.com/ghpvc/?username=Sproc01&style=flat-square&color=blue" alt=""/>
-
 ## Most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sproc01)](https://github.com/anuraghazra/github-readme-stats)
