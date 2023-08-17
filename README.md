@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am a computer engineering student at University of Padua. 
+I am a computer engineering 💻 student at University of Padua. I live in Rovigo, Veneto, Italy🇮🇹.
+
 My linkedin profile:
 <div id="badges">
   <a href="https://www.linkedin.com/in/michele-sprocatti-507620212">
