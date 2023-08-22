@@ -2,8 +2,6 @@
 <h4 align="center"> I am a computer engineering 💻 student at University of Padua. I live in Rovigo, Veneto, Italy🇮🇹. </h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sproc01&label=Profile%20views&color=0e75b6&style=flat" alt="sproc01" /> </p>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sproc01" alt="sproc01" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/michele-sprocatti-507620212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michele-sprocatti-507620212" height="30" width="40" /></a>
