@@ -1,5 +1,5 @@
 ## Hi there 👋
-<h4> I am a computer engineering 💻 student at University of Padua. I live in Rovigo, Veneto, Italy🇮🇹. </h4>
+<h4> I am a computer engineering 💻 master graduate at University of Padua. I live in Rovigo, Veneto, Italy🇮🇹. </h4>
 <p> <img src="https://komarev.com/ghpvc/?username=sproc01&label=Profile%20views&color=0e75b6&style=flat" alt="sproc01" /> </p>
 
 ## Connect with me
